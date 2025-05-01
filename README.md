@@ -39,3 +39,7 @@ Install dependencies with:
 
 ```bash
 pip install -r requirements.txt
+```
+
+The dataset used in this project is publicly available and can be downloaded from:
+[Kaggle - Hate Speech and Offensive Language Dataset](https://www.kaggle.com/datasets/gyozo96/hate-speech-offensive-language-dataset)
